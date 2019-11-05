@@ -11,4 +11,5 @@ package com.itheima.tset;
  */
 public class tset01 {
     String aa;
+    String bb;
 }
